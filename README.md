@@ -3,4 +3,4 @@
 
  Repository created during a live class!
  
- This line i add on the site! AWESOME!
+ This line i added on the site! AWESOME!
